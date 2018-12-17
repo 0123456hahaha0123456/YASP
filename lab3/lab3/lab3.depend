@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540220511 source:d:\russia\thirdsemester\yasp\lab3\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540234912 source:d:\russia\thirdsemester\yasp\lab3\lab3\primenumcheck.c
+	<stdio.h>
+
+1540234942 source:d:\russia\thirdsemester\yasp\lab3\lab3\scalarproduct.c
+	<stdio.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541494320 source:d:\russia\thirdsemester\yasp\lab4\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541494257 source:d:\russia\thirdsemester\yasp\lab4\lab4\lab_4.c
+	"linkedlist.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1541493513 d:\russia\thirdsemester\yasp\lab4\lab4\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
